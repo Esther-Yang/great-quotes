@@ -34,7 +34,7 @@ const AllQuotes = () => {
     return <div className="centered focused">{error}</div>;
   }
 
-  if (status === "completed" && (!loadedQuotes || loadedQuotes.length == 0)) {
+  if (status === "completed" && (!loadedQuotes || loadedQuotes.length === 0)) {
     return <NoQuotesFound />;
   }
 
