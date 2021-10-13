@@ -13,12 +13,12 @@ A React App that can add and display quotes, built while learning React on Udemy
 # What I Learned
 
 - Implemented client-side routing using React-Rounter.
-- Implemented dynamic routes with parameters and useParams (a custom hook).
+- Implemented dynamic routes with parameters and `useParams` (a custom hook).
 - Working with nested routes by registering the routes in a component which able to perform more specific match .
-- Redirecting the user by using the "Redirect" custom component.
+- Redirecting the user by using the `Redirect` custom component.
 - Sending and getting data via Http to Firebase Realtime Database.
-- Implemented lazy loading with React.lazy() method and "Suspense" component.
+- Implemented lazy loading with `React.lazy()` method and `Suspense` component.
 - Deployed app using Firebase Hosting.
 
 # URL
-[Link to try the demo app](https://movie-app-53da7.web.app/quotes 'Link to Great Quotes')
+Here is a [link](https://movie-app-53da7.web.app/quotes 'Link to Great Quotes') to try the demo app.
