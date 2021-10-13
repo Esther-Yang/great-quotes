@@ -4,11 +4,11 @@ A React App that can add and display quotes, built while learning React on Udemy
 
 # Feature
 
-* Act like a multi-page application using [React Router](https://reactrouter.com/web/guides/quick-start "Link to React Rounter Website").
-* Three pages:
-    * All Quotes (and Landing page): display all the quotes and can add comment on it.
-    * New Quote: add a quote with its author by submitting a form.
-    * Quote Detail: when click on a specific quote on the All Quotes page, it will link to this page.
+- Act like a multi-page application using [React Router](https://reactrouter.com/web/guides/quick-start "Link to React Rounter Website").
+- Three pages:
+  - All Quotes (and Landing page): display all the quotes and can add comment on it.
+  - New Quote: add a quote with its author by submitting a form.
+  - Quote Detail: when click on a specific quote on the All Quotes page, it will link to this page.
 
 # What I Learned
 
