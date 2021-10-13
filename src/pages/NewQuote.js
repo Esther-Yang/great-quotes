@@ -9,7 +9,7 @@ const NewQuote = () => {
   const history = useHistory();
 
   useEffect(() => {
-    if (status == "completed") {
+    if (status === "completed") {
       history.push("/quotes");
     }
   }, [status, history]);
