@@ -21,4 +21,4 @@ A React App that can add and display quotes, built while learning React on Udemy
 - Deployed app using Firebase Hosting.
 
 # URL
-[Link to try the demo app]('movie-app-53da7.web.app')
+[Link to try the demo app](https://movie-app-53da7.web.app/quotes 'Link to Great Quotes')
