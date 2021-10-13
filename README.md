@@ -6,7 +6,7 @@ A React App that can add and display quotes, built while learning React on Udemy
 
 - Act like a multi-page application using [React Router](https://reactrouter.com/web/guides/quick-start "Link to React Rounter Website").
 - Three pages:
-  - All Quotes (and Landing page): Display all the quotes and can click "View Fullscreen" button to display particular quote in fullscreen.
+  - All Quotes (the home page): Display all the quotes and can click "View Fullscreen" button to display particular quote in fullscreen.
   - New Quote: Add a quote with its author by submitting a form.
   - Quote Detail: The "View Fullscreen" button will link to this page. In this page, user can add comments.
 
