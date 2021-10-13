@@ -16,4 +16,6 @@ A React App that can add and display quotes, built while learning React on Udemy
 - Implemented dynamic routes with parameters and useParams (a custom hook).
 - Working with nested routes by registering the routes in a component which able to perform more specific match .
 - Redirecting the user by using the "Redirect" custom component.
-* Sending and getting data via Http to Firebase.
+- Sending and getting data via Http to Firebase Realtime Database.
+- Implemented lazy loading with React.lazy() method and "Suspense" component.
+- Deployed app using Firebase Hosting.
