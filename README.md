@@ -19,3 +19,6 @@ A React App that can add and display quotes, built while learning React on Udemy
 - Sending and getting data via Http to Firebase Realtime Database.
 - Implemented lazy loading with React.lazy() method and "Suspense" component.
 - Deployed app using Firebase Hosting.
+
+# URL
+[Link to try the demo app]('movie-app-53da7.web.app')
